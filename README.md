@@ -1,0 +1,5 @@
+- Sau khi học xong khóa "frontend" cơ bản của ProPTIT và CNN thì vanq ngồi làm thử phân loại tuất mèo trên kaggle
+- data được lấy trên kaggle, model cũng được train trên kaggle
+- Code này dùng kiến thức về NiN, BN, chuẩn hóa, Adam, CrossEntroPy, GD
+- Do chưa dùng kỹ thuật nào quá cao siêu nên chỉ được 82%
+- Giao diện code bằng Streamlit
